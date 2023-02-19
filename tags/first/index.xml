@@ -10,14 +10,24 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://parker1609.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 10:41:22 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Test 2</title>
+      <link>https://parker1609.github.io/post/post-test-2/</link>
+      <pubDate>Sun, 19 Feb 2023 10:41:22 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/post-test-2/</guid>
+      <description>테스트 코드 관련 질문 목차 Q. 테스트 코드의 장단점 Q. 좋은 테스트 코드 Q. TDD(Test-Driven Development) Q. Spring Boot를 활용한 API 서버 테스트 코드 Q. BDD Q. 테스트 코드의 장단점 제가 경험했던 테스트 코드의 장점은 세 가지입니다.
+기능에 대한 확신을 할 수 있어 불안감을 해소해줍니다. 리팩토링한 후 바로 테스트 코드로 확인할 수 있습니다. 테스트 코드를 통해 프로덕션 코드를 이해할 수 있습니다. 테스트 코드의 단점은 비용입니다. 테스트 코드에 익숙하지 않을수록 테스트 코드에 대한 비용은 커지고 부담스러워집니다.</description>
+    </item>
+    
     <item>
       <title>My 1st post</title>
       <link>https://parker1609.github.io/post/post-test/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://parker1609.github.io/post/post-test/</guid>
-      <description>Desc Text.</description>
+      <description>휴고 테스트 게시글 </description>
     </item>
     
   </channel>
