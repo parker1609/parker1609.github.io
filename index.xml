@@ -10,24 +10,15 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Feb 2023 10:41:22 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 15:09:26 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post Test 2</title>
-      <link>https://parker1609.github.io/post/post-test-2/</link>
-      <pubDate>Sun, 19 Feb 2023 10:41:22 +0900</pubDate>
+      <title>Hugo 블로그 생성 과정 (theme PaperMod)</title>
+      <link>https://parker1609.github.io/post/creating-my-blog-with-hugo/</link>
+      <pubDate>Sun, 19 Feb 2023 15:09:26 +0900</pubDate>
       
-      <guid>https://parker1609.github.io/post/post-test-2/</guid>
-      <description>테스트 코드 관련 질문 목차 Q. 테스트 코드의 장단점 Q. 좋은 테스트 코드 Q. TDD(Test-Driven Development) Q. Spring Boot를 활용한 API 서버 테스트 코드 Q. BDD Q. 테스트 코드의 장단점 제가 경험했던 테스트 코드의 장점은 세 가지입니다.
-기능에 대한 확신을 할 수 있어 불안감을 해소해줍니다. 리팩토링한 후 바로 테스트 코드로 확인할 수 있습니다. 테스트 코드를 통해 프로덕션 코드를 이해할 수 있습니다. 테스트 코드의 단점은 비용입니다. 테스트 코드에 익숙하지 않을수록 테스트 코드에 대한 비용은 커지고 부담스러워집니다.</description>
-    </item>
-    
-    <item>
-      <title>My 1st post</title>
-      <link>https://parker1609.github.io/post/post-test/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://parker1609.github.io/post/post-test/</guid>
-      <description>휴고 테스트 게시글 </description>
+      <guid>https://parker1609.github.io/post/creating-my-blog-with-hugo/</guid>
+      <description>1. Hugo 설치 및 블로그 테마 설정 Mac OS 기반으로 진행
+1.1. Hugo 설치하기 # Hugo 설치 brew install hugo # hugo 버전 확인 hugo version &amp;gt; hugo v0.104.3+extended darwin/amd64 BuildDate=unknown 1.2. Hugo 블로그 만들기 &amp;amp; PaperMod 테마 설치하기 Hugo 블로그 역시 여러가지 테마를 가지고 있고, 이는 이 링크에서 확인할 수 있다. 그 중 PaperMod 테마가 깔끔하고 마음에 들어 선택하였다. 테마마다 블로그 설정이 조금씩 달라질 수 있으므로, 테마의 레퍼런스도 꼼꼼히 확인해보기를 추천한다.</description>
     </item>
     
   </channel>
