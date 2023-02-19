@@ -17,7 +17,7 @@
       <pubDate>Sun, 19 Feb 2023 15:09:26 +0900</pubDate>
       
       <guid>https://parker1609.github.io/post/creating-my-blog-with-hugo/</guid>
-      <description>1. Hugo 설치 및 블로그 테마 설정 Mac OS 기반으로 진행
+      <description>1. Hugo 설치 및 블로그 테마 설정 Mac OS 기준
 1.1. Hugo 설치하기 # Hugo 설치 brew install hugo # hugo 버전 확인 hugo version &amp;gt; hugo v0.104.3+extended darwin/amd64 BuildDate=unknown 1.2. Hugo 블로그 만들기 &amp;amp; PaperMod 테마 설치하기 Hugo 블로그 역시 여러가지 테마를 가지고 있고, 이는 이 링크에서 확인할 수 있다. 그 중 PaperMod 테마가 깔끔하고 마음에 들어 선택하였다. 테마마다 블로그 설정이 조금씩 달라질 수 있으므로, 테마의 레퍼런스도 꼼꼼히 확인해보기를 추천한다.</description>
     </item>
     
