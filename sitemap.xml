@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://parker1609.github.io/tags/first/</loc>
-    <lastmod>2023-02-24T12:14:58+09:00</lastmod>
+    <lastmod>2023-02-26T14:45:58+09:00</lastmod>
   </url><url>
     <loc>https://parker1609.github.io/</loc>
-    <lastmod>2023-02-24T12:14:58+09:00</lastmod>
+    <lastmod>2023-02-26T14:45:58+09:00</lastmod>
   </url><url>
     <loc>https://parker1609.github.io/post/</loc>
-    <lastmod>2023-02-24T12:14:58+09:00</lastmod>
+    <lastmod>2023-02-26T14:45:58+09:00</lastmod>
   </url><url>
     <loc>https://parker1609.github.io/tags/</loc>
-    <lastmod>2023-02-24T12:14:58+09:00</lastmod>
+    <lastmod>2023-02-26T14:45:58+09:00</lastmod>
   </url><url>
     <loc>https://parker1609.github.io/post/java-web-history/</loc>
-    <lastmod>2023-02-24T12:14:58+09:00</lastmod>
+    <lastmod>2023-02-26T14:45:58+09:00</lastmod>
   </url><url>
     <loc>https://parker1609.github.io/post/java-11-vs-java-17/</loc>
     <lastmod>2023-02-24T11:53:53+09:00</lastmod>
@@ -32,6 +32,10 @@
     <loc>https://parker1609.github.io/post/creating-my-blog-with-hugo/</loc>
     <lastmod>2023-02-19T15:09:26+09:00</lastmod>
   </url><url>
+    <loc>https://parker1609.github.io/archives/</loc>
+  </url><url>
     <loc>https://parker1609.github.io/categories/</loc>
+  </url><url>
+    <loc>https://parker1609.github.io/search/</loc>
   </url>
 </urlset>

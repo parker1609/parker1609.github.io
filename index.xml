@@ -10,11 +10,11 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Feb 2023 12:14:58 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 14:45:58 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>자바 웹 기술 역사</title>
       <link>https://parker1609.github.io/post/java-web-history/</link>
-      <pubDate>Fri, 24 Feb 2023 12:14:58 +0900</pubDate>
+      <pubDate>Sun, 26 Feb 2023 14:45:58 +0900</pubDate>
       
       <guid>https://parker1609.github.io/post/java-web-history/</guid>
       <description>1. CGI (Common Gateway Interface) World Wide Web(WWW)은 초기에는 데이터가 동적으로 변하는 것에 대한 생각은 하지 않아 정적인 페이지 위주로 개발이 되었다. 시간이 흘러 웹은 점점 더 많은 데이터를 보여주도록 변하였고, 사용자가 필요에 따라 바로바로 데이터를 보여주는 동적인 페이지에 대한 수요가 늘었다. 동적인 페이지의 예제는 요즘은 흔히 찾아볼 수 있다. 웹 화면 사이드에 여러 광고가 보인다거나, 게시글이 보여지고 내가 보고 싶은 게시글을 검색한다거나, 댓글을 다는 등의 행동은 모두 동적인 페이지에서 이루어진다.</description>
@@ -41,6 +41,8 @@ Text Blocks 문자열을 좀 더 읽기 좋게 표현할 수 있게 되었다. �
       <description>1. Hugo 설치 및 블로그 테마 설정 Mac OS 기준
 1.1. Hugo 설치하기 # Hugo 설치 brew install hugo # hugo 버전 확인 hugo version &amp;gt; hugo v0.104.3+extended darwin/amd64 BuildDate=unknown 1.2. Hugo 블로그 만들기 &amp;amp; PaperMod 테마 설치하기 Hugo 블로그 역시 여러가지 테마를 가지고 있고, 이는 이 링크에서 확인할 수 있다. 그 중 PaperMod 테마가 깔끔하고 마음에 들어 선택하였다. 테마마다 블로그 설정이 조금씩 달라질 수 있으므로, 테마의 레퍼런스도 꼼꼼히 확인해보기를 추천한다.</description>
     </item>
+    
+    
     
   </channel>
 </rss>
