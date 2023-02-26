@@ -10,7 +10,16 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Feb 2023 11:53:53 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 12:14:58 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first</title>
+      <link>https://parker1609.github.io/tags/first/</link>
+      <pubDate>Fri, 24 Feb 2023 12:14:58 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>java11, java17</title>
       <link>https://parker1609.github.io/tags/java11-java17/</link>
