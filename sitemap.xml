@@ -4,38 +4,64 @@
   <url>
     <loc>https://parker1609.github.io/tags/first/</loc>
     <lastmod>2023-02-26T14:45:58+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/</loc>
     <lastmod>2023-02-26T14:45:58+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/post/</loc>
     <lastmod>2023-02-26T14:45:58+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/tags/</loc>
     <lastmod>2023-02-26T14:45:58+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/post/java-web-history/</loc>
     <lastmod>2023-02-26T14:45:58+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/post/java-11-vs-java-17/</loc>
     <lastmod>2023-02-24T11:53:53+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/tags/java11-java17/</loc>
     <lastmod>2023-02-24T11:53:53+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/tags/blog/</loc>
     <lastmod>2023-02-19T15:09:26+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/tags/hugo/</loc>
     <lastmod>2023-02-19T15:09:26+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/post/creating-my-blog-with-hugo/</loc>
     <lastmod>2023-02-19T15:09:26+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/archives/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/search/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
