@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Network on Parker Blog</title>
+    <link>https://parker1609.github.io/tags/network/</link>
+    <description>Recent content in Network on Parker Blog</description>
+    <image>
+      <title>Parker Blog</title>
+      <url>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 27 Jul 2022 09:59:18 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[개발자가 알아야 할 네트워크 기초] IP 주소, Port 번호</title>
+      <link>https://parker1609.github.io/post/network-basic-ip-address-and-port-number/</link>
+      <pubDate>Wed, 27 Jul 2022 09:59:18 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/network-basic-ip-address-and-port-number/</guid>
+      <description>IP 주소 IP(Internet Protocol) 주소: Host에 대한 식별자 IPv4 VS IPv6 주소 길이 IPv4: 32bit IPv6: 128bit 2022년 기준, IPv4를 대부분 사용함. IPv4의 전체 경우의 수는 2^32 (대략 42억)이며, 전체 Host를 모두 나타낼 수는 없으므로 IPv6 체계가 나왔다. IP 주소 = Network ID + Host ID Network ID를 계산하기 위해 서브넷 마스크(넷 마스크)가 존재한다. Host ID 길이는 전체 길이 32bit에서 NetworkID를 제외한 길이이다. 예제) IPv4: 172.20.10.2, 서브넷 마스크: 255.255.255.0 Network ID = 172.</description>
+    </item>
+    
+    <item>
+      <title>[개발자가 알아야 할 네트워크 기초] TCP/IP 개요</title>
+      <link>https://parker1609.github.io/post/network-basic-tcp-and-ip/</link>
+      <pubDate>Wed, 27 Jul 2022 09:03:05 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/network-basic-tcp-and-ip/</guid>
+      <description>OSI 7 계층을 처음부터 공부하는 것은 추천하지 않는다. 웹 개발자라면, TCP/IP, HTTP 부터 정확히 파악하는게 중요하다.
+TCP/IP 모델은 OSI 7 계층 또는 DoD 모델의 구현체이다. 구체적인 순서: TCP/IP Model(가장 구체적) &amp;gt; Dod Model &amp;gt; OSI 7 Layers 프로세스는 TCP의 데이터를 소켓 형태로 접근할 수 있다. 여기서, 소켓은 User Application와 TCP가 서로 접근할 수 있도록 파일 형태로 추상화한 것이다. 식별자 Access Layer: MAC 주소(L2) → NIC(LAN 카드)에 대한 식별자 NIC이 2개가 있는 경우(일반적으로 유선, 무선 랜 카드), MAC 주소도 2개가 된다.</description>
+    </item>
+    
+  </channel>
+</rss>

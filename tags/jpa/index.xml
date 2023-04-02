@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JPA on Parker Blog</title>
+    <link>https://parker1609.github.io/tags/jpa/</link>
+    <description>Recent content in JPA on Parker Blog</description>
+    <image>
+      <title>Parker Blog</title>
+      <url>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jun 2022 10:06:13 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/jpa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Spring Boot &#43; JPA &#43; PostgreSQL] 다양한 기본키(PK) 생성 방식과 주의사항</title>
+      <link>https://parker1609.github.io/post/spring-boot-and-jpa-and-postgresql-generating-primary-key/</link>
+      <pubDate>Wed, 01 Jun 2022 10:06:13 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/spring-boot-and-jpa-and-postgresql-generating-primary-key/</guid>
+      <description>해당 글의 예제 코드는 이 링크를 참조해주세요.
+JPA에서 엔티티의 PK 생성 방법은 여러가지가 존재합니다. JPA에서 제공해주는 방식과 이를 PostgreSQL에서 사용했을 때, 어떻게 동작하는지 그리고 어떤 주의할 사항이 있는지 살펴보겠습니다.
+1. @GeneratedValue 사용하지 않는 경우 @GeneratedValue 어노테이션을 사용하지 않는 경우, 반드시 엔티티를 생성할 때, 직접 id 값을 지정해주어야 한다. 그렇지 않은 경우, 아래와 같은 에러가 발생한다.
+ids for this class must be manually assigned before calling save() 엔티티를 저장하는 save() 메서드 호출 전에 id값이 명시되어 있어야 한다는 오류이다.</description>
+    </item>
+    
+  </channel>
+</rss>

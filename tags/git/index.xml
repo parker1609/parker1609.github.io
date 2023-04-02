@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Git on Parker Blog</title>
+    <link>https://parker1609.github.io/tags/git/</link>
+    <description>Recent content in Git on Parker Blog</description>
+    <image>
+      <title>Parker Blog</title>
+      <url>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 27 Jun 2021 10:14:10 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>자주 사용하는 git 명령어 모음</title>
+      <link>https://parker1609.github.io/post/cheat-sheet-git-commands/</link>
+      <pubDate>Sun, 27 Jun 2021 10:14:10 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/cheat-sheet-git-commands/</guid>
+      <description>Git 쓰면서 겪었던 상황과 이를 해결한 명령어 모음입니다.
+Git Command Help 터미널 환경에서 GIT을 사용할 경우 명령어로 쉽게 git command 정보를 알 수 있다. 바로 --help 옵션을 사용하는 것이다.
+Git add 명령어 정보 보기
+git add --help Git checkout 명령어 정보 보기
+git checkout --help Git Branch Local Branch 이름 변경하기 git branch -m &amp;lt;변경 전 branch name&amp;gt; &amp;lt;변경 후 branch name&amp;gt; Local Branch 삭제하기 git branch -D &amp;lt;local branch name&amp;gt; Remote Branch 참고하기 Remote branch를 수정하지 않고 단지 읽고만 싶은 경우</description>
+    </item>
+    
+  </channel>
+</rss>
