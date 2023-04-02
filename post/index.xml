@@ -120,5 +120,15 @@ git add --help Git checkout 명령어 정보 보기
 git checkout --help Git Branch Local Branch 이름 변경하기 git branch -m &amp;lt;변경 전 branch name&amp;gt; &amp;lt;변경 후 branch name&amp;gt; Local Branch 삭제하기 git branch -D &amp;lt;local branch name&amp;gt; Remote Branch 참고하기 Remote branch를 수정하지 않고 단지 읽고만 싶은 경우</description>
     </item>
     
+    <item>
+      <title>[IntelliJ IDEA] 유용한 플러그인 모음</title>
+      <link>https://parker1609.github.io/post/intellij-idea-useful-plugin/</link>
+      <pubDate>Sat, 26 Jun 2021 10:41:49 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/intellij-idea-useful-plugin/</guid>
+      <description> 참고로, 최신 인텔리제이를 다운로드 받아보면 예전에는 직접 다운로드 받아야했던 플러그인들이 기본적으로 포함되어 있는 경우도 있었다.
+IdeaVim 플러그인 홈페이지 Vim 환경을 인텔리제이에서 사용하고 싶을 때 사용하기 Rainbow Brackets 플러그인 홈페이지 코드 특성상 괄호의 종류와 중첩을 매우 자주 볼 수 있다. 이를 색깔로 편하게 구분할 수 있도록 도와준다. One Dark Theme 플러그인 홈페이지 Material Theme UI와 One Dark Theme 두 테마가 가장 인기가 좋은 듯 하다. CodeGlance 플러그인 홈페이지 코드의 전체 모습을 미리볼 수 있는 플러그인 Nyan Progress Bar 플러그인 홈페이지 밋밋한 진행바(progress bar)를 귀여운 고양이로 만들어주는 힐링 플러그인 오로지 귀여운 고양이를 보기 위한 플러그인&amp;hellip; </description>
+    </item>
+    
   </channel>
 </rss>
