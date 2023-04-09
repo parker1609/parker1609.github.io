@@ -192,6 +192,26 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://parker1609.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2020-03-04T13:40:05+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/call-by-reference/</loc>
+    <lastmod>2020-03-04T13:40:05+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/call-by-value/</loc>
+    <lastmod>2020-03-04T13:40:05+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/post/call-by-value-vs-call-by-reference/</loc>
+    <lastmod>2020-03-04T13:40:05+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://parker1609.github.io/archives/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
