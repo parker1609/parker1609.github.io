@@ -10,7 +10,27 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Feb 2023 14:45:58 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 May 2023 12:39:08 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kafka 101 - 카프카에 대한 소개와 주요 설정</title>
+      <link>https://parker1609.github.io/post/kafka-101/</link>
+      <pubDate>Sun, 07 May 2023 12:39:08 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/kafka-101/</guid>
+      <description>카프카(Apache Kafka)란? Apache Kafka is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+카프카는 대용량의 실시간 데이터 스트리밍 플랫폼으로서, 분산형 메시지 큐 시스템으로 동작한다. 카프카는 다음과 같은 특징을 가지고 있다.
+높은 처리량과 낮은 지연시간 페이지 캐시 배치 전송 처리 (프로듀서 및 컨슈머는 단 건이 아닌 여러 개로 처리 가능) 압축 전송 (네트워크 통신 효율) 배치와 같이 사용하면 효과가 더욱 커진다.</description>
+    </item>
+    
+    <item>
+      <title>스타트업 시작과 끝</title>
+      <link>https://parker1609.github.io/post/my-experience-working-at-a-startup/</link>
+      <pubDate>Sun, 23 Apr 2023 10:22:14 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/my-experience-working-at-a-startup/</guid>
+      <description>퇴사, 그리고 스타트업으로 이직 (2021년 7월) 첫 회사를 다닌 지 1년이 되지 않는 11개월차에 스타트업으로 이직했다. 그 당시 이직하고 싶었던 가장 큰 이유는 서비스를 처음부터 만들고 싶었고, 다양한 기술을 자유롭게 경험하고 싶었다. 이 경험이 내 성장에 더욱 중요하다고 느꼈다. 마침 그에 걸맞은 회사에 합격하게 되어 퇴사한 날 바로 다음 날 출근을 시작했다. 이직한 스타트업은 헬스케어 서비스였다. 내가 이직하고 싶은 이유에도 충족했지만, 몇 가지 더 마음에 드는 점이 있었다. 헬스케어라는 서비스도 마음에 들었다.</description>
+    </item>
+    
     <item>
       <title>자바 웹 기술 역사</title>
       <link>https://parker1609.github.io/post/java-web-history/</link>
