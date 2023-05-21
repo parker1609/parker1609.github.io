@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Google Bard on Parker Blog</title>
+    <link>https://parker1609.github.io/tags/google-bard/</link>
+    <description>Recent content in Google Bard on Parker Blog</description>
+    <image>
+      <title>Parker Blog</title>
+      <url>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 21 May 2023 09:44:21 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/google-bard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>대화형 AI 사용 후기와 그 미래... (feat. ChatGPT, Google Bard)</title>
+      <link>https://parker1609.github.io/post/review-of-conversational-ai/</link>
+      <pubDate>Sun, 21 May 2023 09:44:21 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/review-of-conversational-ai/</guid>
+      <description>요즘 개발을 넘어 세계적으로 가장 핫한 키워드는 &amp;lsquo;ChatGPT&amp;rsquo;일 것이다. 이는 간단히 말하면 챗봇과 같은 AI인데, 대화형 AI, 챗봇 AI, 대규모 언어 모델(LLM) AI 등으로 불리우고 있다. 이를 직접 사용해본 경험과 그 미래에 대해서 내 개인적인 의견을 적어보려한다.
+현재 시점(2023년 5월 21) 기준으로 ChatGPT는 2달간 결제해서 사용해보고 있고, Google Bard는 약 1~2주 정도 간단히 사용해보고 있다. Bard는 간략하게 ChatGPT와의 차이점에 대해서 정도 적어볼 예정이다.
+ChatGPT ChatGPT에 대한 설명은 이를 직접 chatGPT에 물어본 내용을 약간 정리만 해보았다.</description>
+    </item>
+    
+  </channel>
+</rss>
