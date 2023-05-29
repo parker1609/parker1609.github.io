@@ -29,7 +29,7 @@ Broker 테스트 개발 환경에서는 카프카를 로컬에서 Docker 파일�
 로컬에서 Docker로 Apache Kafka 실행하기 kafka docker image 비교 bitnami
 confluentinc
 wurstmeister
-링크 다운로드 수 star 수 특징 confluentinc DockerDocker 100M+ 394 confluent 에서 제공하는 기능이 포함 bitnami DockerDocker 100M+ 669 순수 카프카 이미지 wurstmeister DockerDocker 100M+ 1.</description>
+링크 다운로드 수 star 수 특징 confluentinc Kafka / Zookeeper 100M+ 394 confluent 에서 제공하는 기능이 포함 bitnami Kafka / Zookeeper 100M+ 669 순수 카프카 이미지 wurstmeister Kafka / Zookeeper 100M+ 1.</description>
     </item>
     
     <item>
