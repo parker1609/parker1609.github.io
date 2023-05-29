@@ -10,7 +10,28 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 May 2023 09:44:21 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 10:27:57 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Boot에서 카프카 사용하기</title>
+      <link>https://parker1609.github.io/post/spring-boot-kafka/</link>
+      <pubDate>Mon, 29 May 2023 10:27:57 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/spring-boot-kafka/</guid>
+      <description>이 글의 코드는 해당 링크에서 확인할 수 있습니다.
+목표 Spring Boot 에서 Apache Kafka 사용 방법
+자주 사용하는 설정 정리
+테스트 개발 환경 Spring Boot 3.1.0
+Java 17
+Spring Kafka 3.0.7
+kafka-client 3.4.0 Gradle
+Docker
+Broker 테스트 개발 환경에서는 카프카를 로컬에서 Docker 파일로 띄우고, Spring 서버에서 이를 연결한다.
+로컬에서 Docker로 Apache Kafka 실행하기 kafka docker image 비교 bitnami
+confluentinc
+wurstmeister
+링크 다운로드 수 star 수 특징 confluentinc DockerDocker 100M+ 394 confluent 에서 제공하는 기능이 포함 bitnami DockerDocker 100M+ 669 순수 카프카 이미지 wurstmeister DockerDocker 100M+ 1.</description>
+    </item>
+    
     <item>
       <title>대화형 AI 사용 후기와 그 미래... (feat. ChatGPT, Google Bard)</title>
       <link>https://parker1609.github.io/post/review-of-conversational-ai/</link>
@@ -23,7 +44,7 @@ ChatGPT ChatGPT에 대한 설명은 이를 직접 chatGPT에 물어본 내용을
     </item>
     
     <item>
-      <title>Kafka 101 - 카프카에 대한 소개와 주요 설정</title>
+      <title>[Kafka] 101 - 카프카에 대한 소개와 주요 설정</title>
       <link>https://parker1609.github.io/post/kafka-101/</link>
       <pubDate>Sun, 07 May 2023 12:39:08 +0900</pubDate>
       
