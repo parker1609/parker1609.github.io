@@ -10,7 +10,17 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 May 2023 10:27:57 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 10:33:30 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023년 전세집 이사</title>
+      <link>https://parker1609.github.io/post/daily/2023-a-move/</link>
+      <pubDate>Sun, 20 Aug 2023 10:33:30 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/daily/2023-a-move/</guid>
+      <description>서울로 독립을 하면서 3년간 낙성대역 근처 3평 남짓한 원룸에서 지냈다. 원래는 2년을 지내고 이사를 가려고 했었다. 그런데 몇 가지 문제로 1년 더 연장을 해서 총 3년을 지내게 되었다.
+Part 1. 2022년 이사 실패 2022년 여름 낙성대역 원룸 2년 계약이 끝나가고 있었다. 나는 다음 이사할 곳으로 전세 원룸 오피스텔을 알아보고 있었고, 이 당시 회사는 풀재택을 하고 있어서 위치는 크게 중요하지 않았다. 그래서 여러 후보 지역이 있었다. 미사역, 거여역, 모란역, 상현역, &amp;hellip; 등 신도시거나 원룸 오피스텔이 모여있는 깨끗한 동네 그리고 산책할 곳이 있는 곳 위주로 찾아보았다.</description>
+    </item>
+    
     <item>
       <title>Spring Boot에서 카프카 사용하기</title>
       <link>https://parker1609.github.io/post/spring-boot-kafka/</link>
