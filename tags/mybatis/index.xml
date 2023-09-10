@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MyBatis on Parker Blog</title>
+    <link>https://parker1609.github.io/tags/mybatis/</link>
+    <description>Recent content in MyBatis on Parker Blog</description>
+    <image>
+      <title>Parker Blog</title>
+      <url>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 27 Aug 2023 17:20:12 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/mybatis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyBatis 필드 및 파라미터 매핑 (with. Spring Boot)</title>
+      <link>https://parker1609.github.io/post/mybatis-mapping/</link>
+      <pubDate>Sun, 27 Aug 2023 17:20:12 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/mybatis-mapping/</guid>
+      <description>이 글은 Spring Boot 환경에서 MyBatis를 사용할 때, 기본적인 조회 결과의 매핑에 대해 정리한 글이다.
+이 글에 나오는 예제는 이 링크에서 확인할 수 있다.
+Spring Boot 3.1.3 Java 17 mybatis-spring-boot-starter 3.0.2 mybatis 3.5.13 H2 Database 0. 예제 소개 매핑 테스트를 위한 간단한 영화(Movie) 예제를 살펴보자. 영화에 대한 정보를 저장하고 조회하는 서비스이다. 이 서비스의 ERD는 간단히 다음과 같이 만들어보았다.
+Movie에 대한 DB 스키마는 다음과 같이 표현할 수 있다. (H2 Database 기준)</description>
+    </item>
+    
+  </channel>
+</rss>
