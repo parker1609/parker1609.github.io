@@ -10,7 +10,34 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Sep 2023 17:44:21 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 22:35:13 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>INFCON2023</title>
+      <link>https://parker1609.github.io/tags/infcon2023/</link>
+      <pubDate>Sun, 24 Sep 2023 22:35:13 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/infcon2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://parker1609.github.io/tags/postgresql/</link>
+      <pubDate>Sun, 24 Sep 2023 22:35:13 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weekly-retrospect</title>
+      <link>https://parker1609.github.io/tags/weekly-retrospect/</link>
+      <pubDate>Sun, 24 Sep 2023 22:35:13 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/weekly-retrospect/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AI</title>
       <link>https://parker1609.github.io/tags/ai/</link>
@@ -116,15 +143,6 @@
       <pubDate>Mon, 29 May 2023 10:27:57 +0900</pubDate>
       
       <guid>https://parker1609.github.io/tags/kafka/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PostgreSQL</title>
-      <link>https://parker1609.github.io/tags/postgresql/</link>
-      <pubDate>Mon, 29 May 2023 10:27:57 +0900</pubDate>
-      
-      <guid>https://parker1609.github.io/tags/postgresql/</guid>
       <description></description>
     </item>
     

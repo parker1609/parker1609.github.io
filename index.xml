@@ -10,7 +10,17 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Sep 2023 17:44:21 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 22:35:13 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023년 9월 3주차</title>
+      <link>https://parker1609.github.io/post/weekly-retrospect/2023-09-3/</link>
+      <pubDate>Sun, 24 Sep 2023 22:35:13 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/weekly-retrospect/2023-09-3/</guid>
+      <description>개발 이슈 Postgresql 버전에 따른 파티션 테이블 인덱싱, 버전 10 VS 버전 11 Postgresql은 파티션 테이블을 생성하는 과정에서 헤더(부모) 테이블을 정의하는데 여기에 인덱스 정보를 선언할 수 있다. Postgresql 버전 10까지는 헤더 테이블로 생성한 하위 파티션 테이블에는 부모 테이블에 적용한 인덱스가 생성되지 않았다. 하지만 버전 11부터는 부모 테이블에 적용된 인덱스가 생성된 하위 테이블에도 똑같이 적용이 됩니다.
+여러 환경에서 같은 파티션 테이블을 사용하면서 같은 쿼리를 동작시켰는데 속도가 전혀 다르다면, 일단 실행계획을 살펴보자. 그 결과 어떤 환경은 인덱스가 적용되고, 다른 환경은 인덱스가 적용되지 않는다면 Postgresql 버전을 의심해보자.</description>
+    </item>
+    
     <item>
       <title>LLM AI 후기와 내 생각</title>
       <link>https://parker1609.github.io/post/think/review-of-conversational-ai/</link>
