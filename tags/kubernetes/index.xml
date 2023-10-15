@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kubernetes on Parker Blog</title>
+    <link>https://parker1609.github.io/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on Parker Blog</description>
+    <image>
+      <title>Parker Blog</title>
+      <url>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 15 Oct 2023 10:15:13 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes 이슈 및 해결 방법 모음</title>
+      <link>https://parker1609.github.io/post/issues/kubernetes-my-issues/</link>
+      <pubDate>Sun, 15 Oct 2023 10:15:13 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/issues/kubernetes-my-issues/</guid>
+      <description>Ingress에서 URL Path를 통한 라우팅 문제 상황 아래 상황은 실제로 발생한 이슈가 아닌, 이해를 돕기 위해 만든 가상의 상황입니다.
+parker-movie 앱에서 영화의 정보를 조회할 수 있는 GET /movies/{movieId} API가 존재한다. 그런데, movieId 100번은 너무 유명한 영화라 조회 빈도가 높았고 부하가 심해졌다. 이를 해결하는 다양한 방식이 있겠지만, 여기서는 쿠버네티스 환경에서 pod 중 movieId 100번을 위한 pod을 따로 사용하고 싶었다. 이를 위해서 Ingress에서 URL Path를 통한 라우팅을 사용할 수 있다.
+적용 apiVersion: apps/v1 kind: Deployment metadata: name: parker-movie-normal-app labels: app: parker-movie-normal-app spec: selector: matchLabels: app: parker-movie-normal-app replicas: 2 template: metadata: labels: app: parker-movie-normal-app spec: containers: - name: parker-movie image: parker-movie:latest imagePullPolicy: Always ports: - containerPort: 8081 env: - name: SPRING_PROFILES_ACTIVE value: real --- apiVersion: apps/v1 kind: Deployment metadata: name: parker-movie-100-app labels: app: parker-movie-100-app spec: selector: matchLabels: app: parker-movie-100-app replicas: 2 template: metadata: labels: app: parker-movie-100-app spec: containers: - name: parker-movie image: parker-movie:latest imagePullPolicy: Always ports: - containerPort: 8081 env: - name: SPRING_PROFILES_ACTIVE value: real --- apiVersion: v1 kind: Service metadata: labels: app: parker-movie-normal-svc name: parker-movie-normal-svc spec: ports: - port: 80 protocol: TCP targetPort: 8081 selector: app: parker-movie-normal-app type: ClusterIP --- apiVersion: v1 kind: Service metadata: labels: app: parker-movie-100-svc name: parker-movie-100-svc spec: ports: - port: 80 protocol: TCP targetPort: 8081 selector: app: parker-movie-100-app type: ClusterIP --- apiVersion: networking.</description>
+    </item>
+    
+  </channel>
+</rss>

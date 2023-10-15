@@ -2,38 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parker1609.github.io/post/weekly-retrospect/2023-09-3/</loc>
-    <lastmod>2023-09-24T22:35:13+09:00</lastmod>
+    <loc>https://parker1609.github.io/tags/kubernetes/</loc>
+    <lastmod>2023-10-15T10:15:13+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://parker1609.github.io/tags/infcon2023/</loc>
-    <lastmod>2023-09-24T22:35:13+09:00</lastmod>
+    <loc>https://parker1609.github.io/post/issues/kubernetes-my-issues/</loc>
+    <lastmod>2023-10-15T10:15:13+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/myissues/</loc>
+    <lastmod>2023-10-15T10:15:13+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/</loc>
-    <lastmod>2023-09-24T22:35:13+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/tags/postgresql/</loc>
-    <lastmod>2023-09-24T22:35:13+09:00</lastmod>
+    <lastmod>2023-10-15T10:15:13+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/post/</loc>
-    <lastmod>2023-09-24T22:35:13+09:00</lastmod>
+    <lastmod>2023-10-15T10:15:13+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/tags/</loc>
-    <lastmod>2023-09-24T22:35:13+09:00</lastmod>
+    <lastmod>2023-10-15T10:15:13+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://parker1609.github.io/tags/weekly-retrospect/</loc>
-    <lastmod>2023-09-24T22:35:13+09:00</lastmod>
+    <loc>https://parker1609.github.io/tags/postgresql/</loc>
+    <lastmod>2023-10-15T10:10:20+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/post/issues/postgresql-my-issues/</loc>
+    <lastmod>2023-10-15T10:10:20+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>

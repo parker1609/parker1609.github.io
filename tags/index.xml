@@ -10,31 +10,31 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Sep 2023 22:35:13 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2023 10:15:13 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>INFCON2023</title>
-      <link>https://parker1609.github.io/tags/infcon2023/</link>
-      <pubDate>Sun, 24 Sep 2023 22:35:13 +0900</pubDate>
+      <title>Kubernetes</title>
+      <link>https://parker1609.github.io/tags/kubernetes/</link>
+      <pubDate>Sun, 15 Oct 2023 10:15:13 +0900</pubDate>
       
-      <guid>https://parker1609.github.io/tags/infcon2023/</guid>
+      <guid>https://parker1609.github.io/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>PostgreSQL</title>
+      <title>MyIssues</title>
+      <link>https://parker1609.github.io/tags/myissues/</link>
+      <pubDate>Sun, 15 Oct 2023 10:15:13 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/myissues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postgresql</title>
       <link>https://parker1609.github.io/tags/postgresql/</link>
-      <pubDate>Sun, 24 Sep 2023 22:35:13 +0900</pubDate>
+      <pubDate>Sun, 15 Oct 2023 10:10:20 +0900</pubDate>
       
       <guid>https://parker1609.github.io/tags/postgresql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>weekly-retrospect</title>
-      <link>https://parker1609.github.io/tags/weekly-retrospect/</link>
-      <pubDate>Sun, 24 Sep 2023 22:35:13 +0900</pubDate>
-      
-      <guid>https://parker1609.github.io/tags/weekly-retrospect/</guid>
       <description></description>
     </item>
     
