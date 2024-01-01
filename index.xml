@@ -10,7 +10,38 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 Oct 2023 10:15:13 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 14:17:11 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023년 마무리</title>
+      <link>https://parker1609.github.io/post/retrospect/2023-retorspect/</link>
+      <pubDate>Mon, 01 Jan 2024 14:17:11 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/retrospect/2023-retorspect/</guid>
+      <description>개발 작성 글 강의 개인 영화 책 운동 기타 </description>
+    </item>
+    
+    <item>
+      <title>객체를 다루는 다양한 방식 (with Java)</title>
+      <link>https://parker1609.github.io/post/dfferenet-ways-to-deal-with-object/</link>
+      <pubDate>Mon, 11 Dec 2023 14:31:57 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/dfferenet-ways-to-deal-with-object/</guid>
+      <description>이번글에서는 객체지향언어, 특히 자바에서 객체를 다루는 다양한 방식에 대해서 알아봅니다.
+1. Object References 객체(Object)를 생성해서 사용하려면, 언어에서는 필연적으로 변수에 객체를 담아야합니다. 이 변수에 담기는 것은 객체를 참조(Reference)하는 주소값입니다. 이를 Object Reference라고 부르고, 객체를 다루는 언어에서 객체를 사용하는 방법입니다.
+간단한 영화 예제를 살펴보겠습니다.
+// Movie Object public class Movie { private String title; private String directorName; private int runningTime; // 생성자 생략 } // Object Reference Movie movie = new Movie(&amp;#34;오펜하이머&amp;#34;, &amp;#34;크리스토퍼 놀란&amp;#34;, 180); 생성한 Movie 객체는 메모리 어딘가에 저장이 될 것이고, movie 변수는 이 저장된 메모리의 시작 주소값을 할당받습니다.</description>
+    </item>
+    
+    <item>
+      <title>소프트웨어 테스트</title>
+      <link>https://parker1609.github.io/post/software-test/</link>
+      <pubDate>Mon, 30 Oct 2023 14:25:52 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/software-test/</guid>
+      <description>소프트웨어를 개발하면서 테스트에 대한 중요성은 많이 알려져있습니다. 테스트는 크게 수동 테스트와 자동화된 테스트 두 가지로 나뉩니다. 수동 테스트는 말그대로 손으로 직접 테스트를 하는 것으로 기능을 직접 실행하여 테스트합니다. 이는 테스트 환경을 설정하거나 테스트 과정을 직접 따라하는 과정의 시간이 오래 걸리고, 같은 테스트를 반복하기가 어렵습니다. 그리고 사람의 눈으로 확인하는 것이기 때문에 실수할 확률이 높아 신뢰도가 떨어집니다.
+반면에 자동화된 테스트는 일련의 스크립트를 작성하여 이 스크립트를 실행하는 것만으로 테스트가 완료됩니다. 스크립트를 잘 작성해야하는 어려움이 있지만, 한 번 작성한 테스트는 실행 한 번으로 모든 테스트를 할 수 있고 쉽게 반복할 수 있습니다.</description>
+    </item>
+    
     <item>
       <title>Kubernetes 이슈 및 해결 방법 모음</title>
       <link>https://parker1609.github.io/post/issues/kubernetes-my-issues/</link>

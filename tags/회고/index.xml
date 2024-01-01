@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>회고 on Parker Blog</title>
+    <link>https://parker1609.github.io/tags/%ED%9A%8C%EA%B3%A0/</link>
+    <description>Recent content in 회고 on Parker Blog</description>
+    <image>
+      <title>Parker Blog</title>
+      <url>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jan 2024 14:17:11 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/%ED%9A%8C%EA%B3%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023년 마무리</title>
+      <link>https://parker1609.github.io/post/retrospect/2023-retorspect/</link>
+      <pubDate>Mon, 01 Jan 2024 14:17:11 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/retrospect/2023-retorspect/</guid>
+      <description>개발 작성 글 강의 개인 영화 책 운동 기타 </description>
+    </item>
+    
+  </channel>
+</rss>

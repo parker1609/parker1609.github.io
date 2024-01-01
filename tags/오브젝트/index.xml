@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>오브젝트 on Parker Blog</title>
+    <link>https://parker1609.github.io/tags/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/</link>
+    <description>Recent content in 오브젝트 on Parker Blog</description>
+    <image>
+      <title>Parker Blog</title>
+      <url>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Dec 2023 14:31:57 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>객체를 다루는 다양한 방식 (with Java)</title>
+      <link>https://parker1609.github.io/post/dfferenet-ways-to-deal-with-object/</link>
+      <pubDate>Mon, 11 Dec 2023 14:31:57 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/dfferenet-ways-to-deal-with-object/</guid>
+      <description>이번글에서는 객체지향언어, 특히 자바에서 객체를 다루는 다양한 방식에 대해서 알아봅니다.
+1. Object References 객체(Object)를 생성해서 사용하려면, 언어에서는 필연적으로 변수에 객체를 담아야합니다. 이 변수에 담기는 것은 객체를 참조(Reference)하는 주소값입니다. 이를 Object Reference라고 부르고, 객체를 다루는 언어에서 객체를 사용하는 방법입니다.
+간단한 영화 예제를 살펴보겠습니다.
+// Movie Object public class Movie { private String title; private String directorName; private int runningTime; // 생성자 생략 } // Object Reference Movie movie = new Movie(&amp;#34;오펜하이머&amp;#34;, &amp;#34;크리스토퍼 놀란&amp;#34;, 180); 생성한 Movie 객체는 메모리 어딘가에 저장이 될 것이고, movie 변수는 이 저장된 메모리의 시작 주소값을 할당받습니다.</description>
+    </item>
+    
+  </channel>
+</rss>

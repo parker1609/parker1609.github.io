@@ -2,6 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://parker1609.github.io/tags/2023/</loc>
+    <lastmod>2024-01-01T14:17:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/post/retrospect/2023-retorspect/</loc>
+    <lastmod>2024-01-01T14:17:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/</loc>
+    <lastmod>2024-01-01T14:17:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/post/</loc>
+    <lastmod>2024-01-01T14:17:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/</loc>
+    <lastmod>2024-01-01T14:17:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/%EA%B2%B0%EC%82%B0/</loc>
+    <lastmod>2024-01-01T14:17:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/%ED%9A%8C%EA%B3%A0/</loc>
+    <lastmod>2024-01-01T14:17:11+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/java/</loc>
+    <lastmod>2023-12-11T14:31:57+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/post/dfferenet-ways-to-deal-with-object/</loc>
+    <lastmod>2023-12-11T14:31:57+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8/</loc>
+    <lastmod>2023-12-11T14:31:57+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/bdd/</loc>
+    <lastmod>2023-10-30T14:25:52+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/tdd/</loc>
+    <lastmod>2023-10-30T14:25:52+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8/</loc>
+    <lastmod>2023-10-30T14:25:52+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/post/software-test/</loc>
+    <lastmod>2023-10-30T14:25:52+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/%ED%85%8C%EC%8A%A4%ED%8A%B8/</loc>
+    <lastmod>2023-10-30T14:25:52+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8/</loc>
+    <lastmod>2023-10-30T14:25:52+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://parker1609.github.io/tags/kubernetes/</loc>
     <lastmod>2023-10-15T10:15:13+09:00</lastmod>
     <changefreq>daily</changefreq>
@@ -13,21 +93,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/tags/myissues/</loc>
-    <lastmod>2023-10-15T10:15:13+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/</loc>
-    <lastmod>2023-10-15T10:15:13+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/post/</loc>
-    <lastmod>2023-10-15T10:15:13+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/tags/</loc>
     <lastmod>2023-10-15T10:15:13+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -74,11 +139,6 @@
   </url><url>
     <loc>https://parker1609.github.io/post/think/developer-study/</loc>
     <lastmod>2023-09-02T17:39:43+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/tags/java/</loc>
-    <lastmod>2023-08-27T17:20:12+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
