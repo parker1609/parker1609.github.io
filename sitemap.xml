@@ -2,27 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://parker1609.github.io/tags/cleancode/</loc>
+    <lastmod>2024-01-28T18:34:34+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/kotlin/</loc>
+    <lastmod>2024-01-28T18:34:34+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/nextstep/</loc>
+    <lastmod>2024-01-28T18:34:34+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/</loc>
+    <lastmod>2024-01-28T18:34:34+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/post/</loc>
+    <lastmod>2024-01-28T18:34:34+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/review/</loc>
+    <lastmod>2024-01-28T18:34:34+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/</loc>
+    <lastmod>2024-01-28T18:34:34+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/tdd/</loc>
+    <lastmod>2024-01-28T18:34:34+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/post/review-of-the-7th-edition-tdd-and-clean-code-with-kotlin/</loc>
+    <lastmod>2024-01-28T18:34:34+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/ai/</loc>
+    <lastmod>2024-01-18T07:19:57+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/chatgpt/</loc>
+    <lastmod>2024-01-18T07:19:57+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/post/ai/utilizing-chatgpt-part-1/</loc>
+    <lastmod>2024-01-18T07:19:57+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/llm/</loc>
+    <lastmod>2024-01-18T07:19:57+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://parker1609.github.io/tags/2023/</loc>
     <lastmod>2024-01-01T14:17:11+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/post/retrospect/2023-retorspect/</loc>
-    <lastmod>2024-01-01T14:17:11+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/</loc>
-    <lastmod>2024-01-01T14:17:11+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/post/</loc>
-    <lastmod>2024-01-01T14:17:11+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/tags/</loc>
     <lastmod>2024-01-01T14:17:11+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -53,11 +103,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/tags/bdd/</loc>
-    <lastmod>2023-10-30T14:25:52+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/tags/tdd/</loc>
     <lastmod>2023-10-30T14:25:52+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -104,16 +149,6 @@
   </url><url>
     <loc>https://parker1609.github.io/post/issues/postgresql-my-issues/</loc>
     <lastmod>2023-10-15T10:10:20+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/tags/ai/</loc>
-    <lastmod>2023-09-02T17:44:21+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/tags/chatgpt/</loc>
-    <lastmod>2023-09-02T17:44:21+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>

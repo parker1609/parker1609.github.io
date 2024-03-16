@@ -10,7 +10,79 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Jan 2024 14:17:11 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jan 2024 18:34:34 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CleanCode</title>
+      <link>https://parker1609.github.io/tags/cleancode/</link>
+      <pubDate>Sun, 28 Jan 2024 18:34:34 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/cleancode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>https://parker1609.github.io/tags/kotlin/</link>
+      <pubDate>Sun, 28 Jan 2024 18:34:34 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NextStep</title>
+      <link>https://parker1609.github.io/tags/nextstep/</link>
+      <pubDate>Sun, 28 Jan 2024 18:34:34 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/nextstep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://parker1609.github.io/tags/review/</link>
+      <pubDate>Sun, 28 Jan 2024 18:34:34 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TDD</title>
+      <link>https://parker1609.github.io/tags/tdd/</link>
+      <pubDate>Sun, 28 Jan 2024 18:34:34 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/tdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://parker1609.github.io/tags/ai/</link>
+      <pubDate>Thu, 18 Jan 2024 07:19:57 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChatGPT</title>
+      <link>https://parker1609.github.io/tags/chatgpt/</link>
+      <pubDate>Thu, 18 Jan 2024 07:19:57 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://parker1609.github.io/tags/llm/</link>
+      <pubDate>Thu, 18 Jan 2024 07:19:57 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>2023</title>
       <link>https://parker1609.github.io/tags/2023/</link>
@@ -66,15 +138,6 @@
     </item>
     
     <item>
-      <title>TDD</title>
-      <link>https://parker1609.github.io/tags/tdd/</link>
-      <pubDate>Mon, 30 Oct 2023 14:25:52 +0900</pubDate>
-      
-      <guid>https://parker1609.github.io/tags/tdd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>단위 테스트</title>
       <link>https://parker1609.github.io/tags/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8/</link>
       <pubDate>Mon, 30 Oct 2023 14:25:52 +0900</pubDate>
@@ -125,24 +188,6 @@
       <pubDate>Sun, 15 Oct 2023 10:10:20 +0900</pubDate>
       
       <guid>https://parker1609.github.io/tags/postgresql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://parker1609.github.io/tags/ai/</link>
-      <pubDate>Sat, 02 Sep 2023 17:44:21 +0900</pubDate>
-      
-      <guid>https://parker1609.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ChatGPT</title>
-      <link>https://parker1609.github.io/tags/chatgpt/</link>
-      <pubDate>Sat, 02 Sep 2023 17:44:21 +0900</pubDate>
-      
-      <guid>https://parker1609.github.io/tags/chatgpt/</guid>
       <description></description>
     </item>
     

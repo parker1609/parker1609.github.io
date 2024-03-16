@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>TDD on Parker Blog</title>
-    <link>https://parker1609.github.io/tags/tdd/</link>
-    <description>Recent content in TDD on Parker Blog</description>
+    <title>NextStep on Parker Blog</title>
+    <link>https://parker1609.github.io/tags/nextstep/</link>
+    <description>Recent content in NextStep on Parker Blog</description>
     <image>
       <title>Parker Blog</title>
       <url>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Jan 2024 18:34:34 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/tdd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jan 2024 18:34:34 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/nextstep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TDD, 클린 코드 with Kotlin 7기 후기</title>
       <link>https://parker1609.github.io/post/review-of-the-7th-edition-tdd-and-clean-code-with-kotlin/</link>
@@ -19,16 +19,6 @@
       <guid>https://parker1609.github.io/post/review-of-the-7th-edition-tdd-and-clean-code-with-kotlin/</guid>
       <description>Next step에서 진행하는 ‘TDD, 클린 코드 with Kotlin 7기’ 강의를 들은지 벌써 2달이 지났다. 후기를 작성을 빨리 하고 싶었지만, 업무를 병행하면서 미션을 모두 진행했다는 뿌듯함에 너무 오랫동안 미루게 되었다. 이제야 부랴부랴 작성해본다… (강의 링크: https://edu.nextstep.camp/c/Z9QeJlCi/)
 코틀린은 백엔드 개발쪽에서도 자바와 비교하여 대체할만한 언어로 몇 년간 화두에 올랐었습니다. 그래서 계속 관심을 갖고는 있었지만 딱히 공부를 하지는 않았었습니다. 첫 째는 자바도 충분히 빠르게 발전하고 있었다고 생각하였고, 다니고 있던 회사에서도 코틀린은 거의 사용하지 않아서 동기부여가 되지 않았었습니다.</description>
-    </item>
-    
-    <item>
-      <title>소프트웨어 테스트</title>
-      <link>https://parker1609.github.io/post/software-test/</link>
-      <pubDate>Mon, 30 Oct 2023 14:25:52 +0900</pubDate>
-      
-      <guid>https://parker1609.github.io/post/software-test/</guid>
-      <description>소프트웨어를 개발하면서 테스트에 대한 중요성은 많이 알려져있습니다. 테스트는 크게 수동 테스트와 자동화된 테스트 두 가지로 나뉩니다. 수동 테스트는 말그대로 손으로 직접 테스트를 하는 것으로 기능을 직접 실행하여 테스트합니다. 이는 테스트 환경을 설정하거나 테스트 과정을 직접 따라하는 과정의 시간이 오래 걸리고, 같은 테스트를 반복하기가 어렵습니다. 그리고 사람의 눈으로 확인하는 것이기 때문에 실수할 확률이 높아 신뢰도가 떨어집니다.
-반면에 자동화된 테스트는 일련의 스크립트를 작성하여 이 스크립트를 실행하는 것만으로 테스트가 완료됩니다. 스크립트를 잘 작성해야하는 어려움이 있지만, 한 번 작성한 테스트는 실행 한 번으로 모든 테스트를 할 수 있고 쉽게 반복할 수 있습니다.</description>
     </item>
     
   </channel>

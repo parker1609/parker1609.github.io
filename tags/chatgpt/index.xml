@@ -10,7 +10,17 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Sep 2023 17:44:21 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jan 2024 07:19:57 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT 활용하기 - Part 1</title>
+      <link>https://parker1609.github.io/post/ai/utilizing-chatgpt-part-1/</link>
+      <pubDate>Thu, 18 Jan 2024 07:19:57 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/ai/utilizing-chatgpt-part-1/</guid>
+      <description>ChatGPT는 현재 어떤 분야에 있는 사람이든 한 번쯤은 들어보거나 직접 사용해보았을 것입니다. 요즘은 AI라고 하면 가장 먼저 떠올릴 만큼 대명사로 자리잡은 것으로 보입니다. 그만큼 AI에 대해서 사람들이 이제는 피부로 느껴질 만큼 일상생활에 영향을 주고 있습니다.
+저 역시 작년부터 꾸준히 사용해오고 있는 사용자로서, 무엇보다 놀라운 점은 ChatGPT가 저의 개발 스타일에도 큰 변화를 준 것입니다. 써보신 분들이라면 공감할 수 있겠지만, 구글링한다거나 스택 오버플로우에 접속하는 시간이 매우 적어졌습니다. 내가 원하는 것을 말로 표현하면, (심지어 추상적으로 간단히만 표현해도) 그에 맞게 적절히 정리해주고 답변을 주기 때문에 시간이 많이 단축되고 효율적이었습니다.</description>
+    </item>
+    
     <item>
       <title>LLM AI 후기와 내 생각</title>
       <link>https://parker1609.github.io/post/think/review-of-conversational-ai/</link>
