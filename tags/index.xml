@@ -12,11 +12,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 14 Apr 2024 11:54:25 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first</title>
-      <link>https://parker1609.github.io/tags/first/</link>
+      <title>AI</title>
+      <link>https://parker1609.github.io/tags/ai/</link>
       <pubDate>Sun, 14 Apr 2024 11:54:25 +0900</pubDate>
       
-      <guid>https://parker1609.github.io/tags/first/</guid>
+      <guid>https://parker1609.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChatGPT</title>
+      <link>https://parker1609.github.io/tags/chatgpt/</link>
+      <pubDate>Sun, 14 Apr 2024 11:54:25 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://parker1609.github.io/tags/llm/</link>
+      <pubDate>Sun, 14 Apr 2024 11:54:25 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/llm/</guid>
       <description></description>
     </item>
     
@@ -89,33 +107,6 @@
       <pubDate>Sun, 28 Jan 2024 18:34:34 +0900</pubDate>
       
       <guid>https://parker1609.github.io/tags/tdd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://parker1609.github.io/tags/ai/</link>
-      <pubDate>Thu, 18 Jan 2024 07:19:57 +0900</pubDate>
-      
-      <guid>https://parker1609.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ChatGPT</title>
-      <link>https://parker1609.github.io/tags/chatgpt/</link>
-      <pubDate>Thu, 18 Jan 2024 07:19:57 +0900</pubDate>
-      
-      <guid>https://parker1609.github.io/tags/chatgpt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LLM</title>
-      <link>https://parker1609.github.io/tags/llm/</link>
-      <pubDate>Thu, 18 Jan 2024 07:19:57 +0900</pubDate>
-      
-      <guid>https://parker1609.github.io/tags/llm/</guid>
       <description></description>
     </item>
     
