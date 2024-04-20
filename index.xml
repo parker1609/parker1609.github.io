@@ -10,7 +10,20 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 14 Apr 2024 20:39:53 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 11:59:18 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[MyBlog] 게시글에 이미지 삽입하기</title>
+      <link>https://parker1609.github.io/post/blog/how-to-insert-image-in-my-blog/</link>
+      <pubDate>Sat, 20 Apr 2024 11:59:18 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/blog/how-to-insert-image-in-my-blog/</guid>
+      <description>Github 블로그와 같은 static 블로그를 운영할 때, 불편한 점 중 한 가지는 이미지를 삽입하는 과정이 번거롭다는 것이다.
+먼저, 마크다운에서 이미지를 가져오는 문법에 대해서 알아보자.
+![image_name](URL or Path) 이미지의 URL 또는 이미지 파일이 저장되어있는 Path 둘 다 사용할 수 있다. 그러다보니, 보여주고 싶은 이미지를 설정하는 방법 또한 두 가지이다.
+외부 저장소에 올려서 URL 가져오기 삽입할 이미지를 외부 저장소에 올린 후, 생성된 URL을 사용하는 것이다.
+여기서 외부 저장소는 대부분 Github를 사용한다. 특히, 현재 블로그는 Github 리포지토리를 활용하고 있어서 같은 곳에 저장을 하고 있으면 관리하기가 좋다.</description>
+    </item>
+    
     <item>
       <title>2024년 Weekly Log</title>
       <link>https://parker1609.github.io/post/daily/2024-week-logs/</link>
@@ -204,11 +217,11 @@ Text Blocks 문자열을 좀 더 읽기 좋게 표현할 수 있게 되었다. �
     </item>
     
     <item>
-      <title>Hugo 블로그 생성 과정 (theme PaperMod)</title>
-      <link>https://parker1609.github.io/post/creating-my-blog-with-hugo/</link>
+      <title>[MyBlog] Hugo 블로그 생성 과정 (theme PaperMod)</title>
+      <link>https://parker1609.github.io/post/blog/creating-my-blog-with-hugo/</link>
       <pubDate>Sun, 19 Feb 2023 15:09:26 +0900</pubDate>
       
-      <guid>https://parker1609.github.io/post/creating-my-blog-with-hugo/</guid>
+      <guid>https://parker1609.github.io/post/blog/creating-my-blog-with-hugo/</guid>
       <description>1. Hugo 설치 및 블로그 테마 설정 Mac OS 기준
 1.1. Hugo 설치하기 # Hugo 설치 brew install hugo # hugo 버전 확인 hugo version &amp;gt; hugo v0.104.3+extended darwin/amd64 BuildDate=unknown 1.2. Hugo 블로그 만들기 &amp;amp; PaperMod 테마 설치하기 Hugo 블로그 역시 여러가지 테마를 가지고 있고, 이는 이 링크에서 확인할 수 있다. 그 중 PaperMod 테마가 깔끔하고 마음에 들어 선택하였다. 테마마다 블로그 설정이 조금씩 달라질 수 있으므로, 테마의 레퍼런스도 꼼꼼히 확인해보기를 추천한다.</description>
     </item>
