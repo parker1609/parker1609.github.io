@@ -10,11 +10,29 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Apr 2024 15:21:53 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 May 2024 05:05:23 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>https://parker1609.github.io/tags/books/</link>
+      <pubDate>Tue, 07 May 2024 05:05:23 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://parker1609.github.io/tags/review/</link>
+      <pubDate>Tue, 07 May 2024 05:05:23 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>2024</title>
       <link>https://parker1609.github.io/tags/2024/</link>
-      <pubDate>Sun, 28 Apr 2024 15:21:53 +0900</pubDate>
+      <pubDate>Mon, 06 May 2024 15:19:41 +0900</pubDate>
       
       <guid>https://parker1609.github.io/tags/2024/</guid>
       <description></description>
@@ -23,7 +41,7 @@
     <item>
       <title>Log</title>
       <link>https://parker1609.github.io/tags/log/</link>
-      <pubDate>Sun, 28 Apr 2024 15:21:53 +0900</pubDate>
+      <pubDate>Mon, 06 May 2024 15:19:41 +0900</pubDate>
       
       <guid>https://parker1609.github.io/tags/log/</guid>
       <description></description>
@@ -32,7 +50,7 @@
     <item>
       <title>March</title>
       <link>https://parker1609.github.io/tags/march/</link>
-      <pubDate>Sun, 28 Apr 2024 15:21:53 +0900</pubDate>
+      <pubDate>Mon, 06 May 2024 15:19:41 +0900</pubDate>
       
       <guid>https://parker1609.github.io/tags/march/</guid>
       <description></description>
@@ -41,7 +59,7 @@
     <item>
       <title>Weekly</title>
       <link>https://parker1609.github.io/tags/weekly/</link>
-      <pubDate>Sun, 28 Apr 2024 15:21:53 +0900</pubDate>
+      <pubDate>Mon, 06 May 2024 15:19:41 +0900</pubDate>
       
       <guid>https://parker1609.github.io/tags/weekly/</guid>
       <description></description>
@@ -116,15 +134,6 @@
       <pubDate>Sun, 28 Jan 2024 18:34:34 +0900</pubDate>
       
       <guid>https://parker1609.github.io/tags/nextstep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review</title>
-      <link>https://parker1609.github.io/tags/review/</link>
-      <pubDate>Sun, 28 Jan 2024 18:34:34 +0900</pubDate>
-      
-      <guid>https://parker1609.github.io/tags/review/</guid>
       <description></description>
     </item>
     

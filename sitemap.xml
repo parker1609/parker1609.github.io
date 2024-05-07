@@ -2,43 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://parker1609.github.io/tags/2024/</loc>
-    <lastmod>2024-04-28T15:21:53+09:00</lastmod>
+    <loc>https://parker1609.github.io/post/foster-review/</loc>
+    <lastmod>2024-05-07T05:05:23+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://parker1609.github.io/post/daily/2024-week-logs/</loc>
-    <lastmod>2024-04-28T15:21:53+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/tags/log/</loc>
-    <lastmod>2024-04-28T15:21:53+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/tags/march/</loc>
-    <lastmod>2024-04-28T15:21:53+09:00</lastmod>
+    <loc>https://parker1609.github.io/tags/books/</loc>
+    <lastmod>2024-05-07T05:05:23+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/</loc>
-    <lastmod>2024-04-28T15:21:53+09:00</lastmod>
+    <lastmod>2024-05-07T05:05:23+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/post/</loc>
-    <lastmod>2024-04-28T15:21:53+09:00</lastmod>
+    <lastmod>2024-05-07T05:05:23+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/review/</loc>
+    <lastmod>2024-05-07T05:05:23+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/tags/</loc>
-    <lastmod>2024-04-28T15:21:53+09:00</lastmod>
+    <lastmod>2024-05-07T05:05:23+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/2024/</loc>
+    <lastmod>2024-05-06T15:19:41+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/post/daily/2024-week-logs/</loc>
+    <lastmod>2024-05-06T15:19:41+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/log/</loc>
+    <lastmod>2024-05-06T15:19:41+09:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://parker1609.github.io/tags/march/</loc>
+    <lastmod>2024-05-06T15:19:41+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/tags/weekly/</loc>
-    <lastmod>2024-04-28T15:21:53+09:00</lastmod>
+    <lastmod>2024-05-06T15:19:41+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -88,11 +103,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://parker1609.github.io/tags/nextstep/</loc>
-    <lastmod>2024-01-28T18:34:34+09:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://parker1609.github.io/tags/review/</loc>
     <lastmod>2024-01-28T18:34:34+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
