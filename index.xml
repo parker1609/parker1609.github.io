@@ -10,7 +10,18 @@
       <link>https://parker1609.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 07 May 2024 05:05:23 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 17:38:57 +0900</lastBuildDate><atom:link href="https://parker1609.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>서버 이중화(Redundancy)</title>
+      <link>https://parker1609.github.io/post/server-redundancy/</link>
+      <pubDate>Sun, 02 Jun 2024 17:38:57 +0900</pubDate>
+      
+      <guid>https://parker1609.github.io/post/server-redundancy/</guid>
+      <description>이중화 (Redundancy) 이중화는 시스템의 구성 요소를 2개(n개)로 중복시켜 한 구성 요소가 실패하더라도 다른 구성 요소가 그 역할을 대신 할 수 있도록 하는 것을 말합니다.
+그러면, 어떤 구성 요소를 중복해야 할까요? 바로 SPoF(Single Point of Failure)에 해당하는 구성 요소입니다. SPoF는 시스템, 네트워크 또는 프로세스에서 단일 구성 요소가 실패할 경우 전체 시스템의 기능이 중단되는 지점을 의미합니다. 이렇게 하나의 구성 요소가 실패하여 전체 서비스를 중단시킬 수 있는 부분을 이중화해야 합니다.
+이중화는 시스템의 고가용성(High Availability), 결함 감내(Fault Tolerance)를 보장하여 서비스의 연속성을 유지하고, 장애 발생 시 신속하게 대응할 수 있는 장점을 갖고 있습니다.</description>
+    </item>
+    
     <item>
       <title>[도서 서평] - 맡겨진 소녀 - 클레어 키건</title>
       <link>https://parker1609.github.io/post/foster-review/</link>
